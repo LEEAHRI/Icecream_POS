@@ -21,6 +21,5 @@
  - 외부 라이브러리 : jdbc(odjbc8.jar)
 
 ### 시연영상
-<img width="80%" src="https://user-images.githubusercontent.com/71698417/158957892-5ca4d0ef-6a2e-45c2-aa47-38c32fe77f75.gif"/>
-
+[![IcecreamPOS](https://img.youtube.com/vi/keY6PwqQBTw/hqdefault.jpg)](https://youtu.be/keY6PwqQBTw?t=0s) 
 
