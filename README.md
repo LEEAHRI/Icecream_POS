@@ -1,5 +1,5 @@
 ### Icecream_POS
-[JAVA] POS기 콘솔 구현
+[JAVA] 
 진행기간 : 2022. 03. 07 ~ 2022. 3.12
  - 자바를 활용한 아이스크림 가게의 포스기 구현 프로젝트 입니다. 
  
@@ -19,7 +19,4 @@
  - DB : Oracle 
  - Tool : eclips (jdk-11) / intelliJ / Sql_Developer / ERD_Cloud
  - 외부 라이브러리 : jdbc(odjbc8.jar)
-
-### 시연영상
-[![IcecreamPOS](https://img.youtube.com/vi/keY6PwqQBTw/hqdefault.jpg)](https://youtu.be/keY6PwqQBTw?t=0s) 
 
