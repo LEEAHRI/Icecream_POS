@@ -1,2 +1,2 @@
 # Icecream_POS
-test
+[JAVA] POS기 콘솔 
